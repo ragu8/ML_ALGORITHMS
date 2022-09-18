@@ -1,4 +1,4 @@
-# MACHINE-LEARNING-ALGORITHMS
+
 ##  Regression
 '''
 * Simple Linear Regression
